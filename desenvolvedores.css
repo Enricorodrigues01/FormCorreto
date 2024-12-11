@@ -1,0 +1,40 @@
+img{
+    height: 250px;
+    border-radius: 50px;
+    border-style: groove;
+    border-color:aqua
+}
+.Lucas{
+    display: inline-block;
+    margin-left: 250px;
+    margin-right: 250px;
+    color: aqua;
+}
+
+.Enrico{
+    display: inline-block;
+    color: aqua;
+}
+.cabecalho{
+    display: inline;
+}
+a{
+    margin: 0 75px 0 75px;
+}
+.Titulo{
+    display: inline;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.cabecalho{
+    display: inline;
+    background-color: aqua;
+    border-radius: 5px;
+
+}
+nav{
+    margin: 0 250px 0 250px;
+}
+body{
+    background-color: black;
+}

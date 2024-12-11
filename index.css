@@ -1,0 +1,73 @@
+.markeup{
+    display:inline-block;
+}
+.jogos{
+    display: inline;
+}
+.idade{
+    width: 0.5px;
+}
+img{
+    height: 100%;
+    width: 130px;
+    border-radius: 20px;
+}
+.sn{
+    display: inline;
+}
+.sni{
+    display: inline-block;
+}
+.cabecalho{
+    display: inline;
+    background-color: aqua;
+    border-radius: 5px;
+
+}
+h1{
+    margin-right: 150px;
+}
+footer{
+    text-align: center;
+    color: aqua;
+}
+.usuario{
+    display: inline-block;
+    margin: 0 75px 0 75px;
+}
+.setup{
+    display: inline-block;
+    margin: 0 75px 0 70px;
+}
+.games{
+    display: inline-block;
+    margin: 0 75px 0 75px;
+}
+a{
+    margin: 0 75px 0 75px;
+}
+main{
+    color: aqua;
+    border-radius: 100px;
+    margin-top: 50px;
+}
+body{
+    background-color:rgb(0, 0, 0);
+    
+}
+.Titulo{
+    display: inline;
+    color: #00ffff;
+    border-radius: 10px;
+}
+nav{
+    margin: 0 250px 0 250px;
+}
+.Botao{
+    background-color: rgb(101, 110, 110);
+    color: aqua;
+    height: 50px;
+    border-radius: 20px;
+    border-style: groove;
+    border-color:aqua;
+}
